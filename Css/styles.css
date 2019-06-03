@@ -6,3 +6,8 @@ body {
   background-size: cover;
   background-image: url("https://wallpapertag.com/wallpaper/middle/3/0/5/190054-beautiful-geometry-dash-wallpaper-1920x1080.jpg");
 }
+.identity{
+  float: left;
+  margin-left: 450px;
+
+}
