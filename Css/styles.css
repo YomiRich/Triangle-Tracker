@@ -1,13 +1,15 @@
 body {
-
+font-family: 'Lato', sans-serif;
   text-align: center;
   display: flex;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("https://wallpapertag.com/wallpaper/middle/3/0/5/190054-beautiful-geometry-dash-wallpaper-1920x1080.jpg");
+  background-image: url("https://thumbs.dreamstime.com/b/abstract-colorful-triangles-background-loop-dynamic-geometric-moving-pattern-red-blue-yellow-violet-color-scheme-k-ultra-hd-87358321.jpg");
 }
 .identity{
   float: left;
-  margin-left: 450px;
-
+  margin-left: 350px;
+  margin-top: 50px;
+  font-size: 20px;
+  text-decoration-color: white;
 }
