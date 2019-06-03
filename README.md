@@ -7,17 +7,17 @@ This application helps the user determine the numbers entered if they form a tri
 * Open Click on the link submitted to view the project.
 * For the commits, or view a detailed progress on the project, click on the commits.
 ##BDD
-|---------------------------------------|------------------------------------------------
-|   gykyy                               |
-|---------------------------------------|-----------------------
-|                                       |
+-Any number entered should give me a result. It could either be a type of triangle, or not a triangle.
+-When I enter two equal numbers, the result should be isosceles triangle.
+-When I enter three equal numbers, the result should be equilateral triangle.
+-When none of the sides is equal and the sum of any two sides of the triangle must be greater than the third side, the result should be scalene triangle.
+-If the sum of any two sides of the triangle is equal to or less than the third remaining side, the result is not a triangle.
 ## Known Bugs
 No bugs.
 ## Technologies Used
 Html
 Css
 Java script
-Bootstrap
 ## Support and contact details
 ymueni@gmail.com
 ### License
