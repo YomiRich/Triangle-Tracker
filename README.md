@@ -5,10 +5,21 @@
 This application helps students in solving mathematical problems i.e, determining a type of a triangle, when given random numbers. There are three buttons where the user is supposed to enter numbers. After the numbers are entered, the user is required to click submit. After that, he/she receives the result. The triangle could be equilateral, scalene, isosceles or not a triangle.
 ##BDD
 
+|| Input Example  | Output Example  |
+| :---------------------------------- | :--------------- | ---------------: |
+|  | |  |
+| |  |  |
+| When three numbers are equal | 3,3,3 | Equilateral Triangle |
+| When two numbers are equal | 4,4,6 | Isosceles Triangle |
+| When or sides are not equal | 4,8,9 | Scalene Triangle |
+| When sum of any two sides of the triangle is equal to or less than the third remaining side | 4,2,6 | Not a triangle |
+
+
 |  Behavior | Input | Output|
 | :---         |     :---:      |          ---: |
 | When user does not enter any number   | 2, ,3      |Kindly key in a number    |
-| git diff     | git diff       | git diff      |
+| When negative numbers or zero is used      | 0,-1,0      | Not a triangle    |
+
 
 ## Setup/Installation Requirements
 * Click on this link https://github.com/YomiRich/Triangle-Tracker.
