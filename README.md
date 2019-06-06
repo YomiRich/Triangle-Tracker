@@ -1,8 +1,8 @@
 # Triangle Tracker
 #### A triangle tracker is an application used to determine a type of triangle, based on the number entered by the user. 06.06.2019
-#### By **{List of contributors}**
+#### By **Yomi Rich**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This application helps students in solving mathematical problems i.e, determining a type of a triangle, when given random numbers. There are three buttons where the user is supposed to enter numbers. After the numbers are entered, the user is required to click submit. After that, he/she receives the result. The triangle could be equilateral, scalene, isosceles or not a triangle.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
