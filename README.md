@@ -3,6 +3,9 @@
 #### By **Yomi Rich**
 ## Description
 This application helps students in solving mathematical problems i.e, determining a type of a triangle, when given random numbers. There are three buttons where the user is supposed to enter numbers. After the numbers are entered, the user is required to click submit. After that, he/she receives the result. The triangle could be equilateral, scalene, isosceles or not a triangle.
+#BDD
+|-------------||-------------||-------------|
+|
 ## Setup/Installation Requirements
 * Click on this link https://github.com/YomiRich/Triangle-Tracker.
 * Git clone https://github.com/YomiRich/Triangle-Tracker.git.
