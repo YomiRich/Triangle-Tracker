@@ -1,25 +1,21 @@
-#Triangle Tracker
-This is an application that is meant to indicate if figures entered form an isosceles triangle, equilateral triangle, scalene triangle, or if the figures do not form a triangle. 03.06.2019
-By Naomi Mueni Wambua
-This application helps the user determine the numbers entered if they form a tringle, and if they do, what type of triangle they form.
+# Triangle Tracker
+#### A triangle tracker is an application used to determine a type of triangle, based on the number entered by the user. 06.06.2019
+#### By **{List of contributors}**
+## Description
+{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
-* Open the github link shared
-* Open Click on the link submitted to view the project.
-* For the commits, or view a detailed progress on the project, click on the commits.
-##BDD
--Any number entered should give me a result. It could either be a type of triangle, or not a triangle.
--When I enter two equal numbers, the result should be isosceles triangle.
--When I enter three equal numbers, the result should be equilateral triangle.
--When none of the sides is equal and the sum of any two sides of the triangle must be greater than the third side, the result should be scalene triangle.
--If the sum of any two sides of the triangle is equal to or less than the third remaining side, the result is not a triangle.
+* This is a great place
+* to list setup instructions
+* in a simple
+* easy-to-understand
+* format
+{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-No bugs.
+{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-Html
-Css
-Java script
+{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
-ymueni@gmail.com
+{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
-
-Copyright (c) {2019} **{Yomi Rich}**
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+Copyright (c) {year} **{List of contributors or company name}**
